@@ -1,6 +1,6 @@
-/*
-› Create By @RIY
-› Base Ori @DikaArdnt
+/*BY RZ STORE SPAM BLOK
+› Create BY RZ STORE 
+› Base Ori @RZ STORE 
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,13 +22,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285742644493','6285742644493','6285742644493'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285742644493'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285742644493' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'RZ STORE' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'RZ-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
